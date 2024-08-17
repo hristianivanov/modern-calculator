@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.item {
+    flex: 1;
+}
+
+.container .item:last-child {
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+}
