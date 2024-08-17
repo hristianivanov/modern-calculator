@@ -7,7 +7,11 @@
   --black--first: #363e4d;
   --black--second: #242933;
   --background: linear-gradient(166deg, #FEFEFE 0%, #F9F9F9 12.84%, #F3F3F3 32.53%, #E5E5E5 100%);
+  --gradient: linear-gradient(131deg, rgba(230, 230, 230, 1) 0%, rgba(151, 208, 251, 1) 100%);
   --main-black: #161a20;
+  --history-calc: rgba(55, 55, 55, 0.50);
+  --btn-background : rgba(255, 255, 255, 0.30);
+
 
   --row-gap: 20px;
   --col-gap: 25px;
@@ -20,7 +24,11 @@
 }
 
 .dark {
+  --default-text-color: #FBFBFB;
   --background: linear-gradient(166deg, #373737 0%, #252628 22.9%, #000309 100%);
+  --history-calc: rgba(251, 251, 251, 0.50);
+  --gradient: rgba(0, 34, 53, 0.40);
+  --btn-background: rgba(5, 5, 5, 0.30);
 }
 
 body {
