@@ -58,16 +58,16 @@ export default function Keyboard() {
                             <path d="M697.404 -24.1603C819.447 325.921 820.324 583.616 315.636 503.575C-7.67762 350.43 -155.022 587.082 -481.876 488.638C-246.465 -103.199 -160.092 354.76 45.0564 266.06C300.809 155.48 136.128 -793.125 697.404 -24.1603Z" fill="url(#paint0_linear_2_78)" />
                         </g>
                         <defs>
-                            <filter id="filter0_f_2_78" x="-845.876" y="-686.261" width="1974.7" height="1568.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                            <filter id="filter0_f_2_78" x="-845.876" y="-686.261" width="1974.7" height="1568.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+                                <feFlood floodOpacity="0" result="BackgroundImageFix" />
                                 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
                                 <feGaussianBlur stdDeviation="182" result="effect1_foregroundBlur_2_78" />
                             </filter>
                             <linearGradient id="paint0_linear_2_78" x1="641.33" y1="-233.083" x2="-123.056" y2="690.561" gradientUnits="userSpaceOnUse">
-                                <stop offset="0.0238694" stop-color="#42869B" />
-                                <stop offset="0.277847" stop-color="#2A7DA1" />
-                                <stop offset="0.650876" stop-color="#224E91" />
-                                <stop offset="1" stop-color="#00123F" />
+                                <stop offset="0.0238694" stopColor="#42869B" />
+                                <stop offset="0.277847" stopColor="#2A7DA1" />
+                                <stop offset="0.650876" stopColor="#224E91" />
+                                <stop offset="1" stopColor="#00123F" />
                             </linearGradient>
                         </defs>
                     </svg>
