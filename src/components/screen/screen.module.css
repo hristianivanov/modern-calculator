@@ -1,0 +1,32 @@
+.container {
+    font-family: Poppins;
+    height: 105px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.history {
+    color: rgba(55, 55, 55, 0.50);
+    text-align: right;
+    font-size: 22px;
+    font-weight: 500;
+    flex-basis: 100%;
+}
+
+.sign {
+    color: #373737;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.result {
+    color: #373737;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    flex: 7;
+}
