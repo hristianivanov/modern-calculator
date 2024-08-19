@@ -13,13 +13,12 @@ function App() {
   return (
     <ThemeContextProvider>
       <ThemeProvider>
-
         <div className='container'>
           <div className='calculator'>
 
             <Header />
             <div>
-              <Screen />
+              {/* <Screen /> */}
               <Keyboard />
             </div>
 

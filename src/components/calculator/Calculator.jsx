@@ -58,7 +58,6 @@ function Calculator() {
       return;
     }
 
-
     /* last test for users */
     if (value === "%") {
       if (operand === "") return;
