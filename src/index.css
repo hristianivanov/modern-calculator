@@ -32,7 +32,7 @@
 }
 
 body {
-  background: #ddd;
+  background: linear-gradient(117deg, #00376A 0%, #0079E9 100%);;
 }
 
 body::-webkit-scrollbar {
