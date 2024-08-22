@@ -33,7 +33,7 @@ To get started with the React Calculator, follow these steps:
     npm run dev
     ```
 
-Your calculator should now be running locally, accessible through your browser at `http://localhost:3000` by default.
+Your calculator should now be running locally, accessible through your browser at `http://localhost:5173` by default.
 
 ## Contributions
 
